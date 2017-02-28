@@ -1,5 +1,7 @@
 # QUDA-iOS
-##Versions
-iOS SDK version: 10 (79% of base as of February 20th)
+## Versions
+iOS Version Support: 10
+
+iOS SDK Version: 10.2.1
 
 Swift Version 3.0.2
